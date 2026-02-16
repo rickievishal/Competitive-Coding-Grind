@@ -1,1 +1,3 @@
 # Competitive-Coding-Grind
+Gonna grind leetcode like anything broooo...
+
